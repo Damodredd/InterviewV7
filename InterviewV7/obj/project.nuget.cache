@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Oyy596Ll4nf0Mfiu/QnEPHpFXKbAnAfVGoouHTdE1KkUqe4D/k+KoESMez9hPROmAR0LOb5ZEFBocSQNLf7GtQ==",
+  "dgSpecHash": "3ypPOQHefuUOGbZovlNoduzH4dcsLavdWe4nxp5/4rgAahIL+JcsvbPPVy2v7xDq5ziKZ4vgA7Kken77+B5gcw==",
   "success": true,
   "projectFilePath": "C:\\gitz\\imiz\\InterviewV7\\InterviewV7\\InterviewV7.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jsmith2\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\jsmith2\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

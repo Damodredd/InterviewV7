@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InterviewV7": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\V7\\test.csv"
+    }
+  }
+}
